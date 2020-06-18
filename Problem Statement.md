@@ -13,7 +13,7 @@ The company wants to know:
 Based on various market surveys, the consulting firm has gathered a large dataset of different types of cars across the Americal market.
 
 
-Business Goal:= 
+Business Goal:- 
 
 we are required to model the price of cars with the available independent variables. 
 It will be used by the management to understand how exactly the prices vary with the independent variables. 
